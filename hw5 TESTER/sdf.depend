@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445409041 source:c:\users\alex chrysanthem\desktop\sdf\main.cpp
+	<iostream>
+
+1445544058 source:c:\users\alex chrysanthem\desktop\hw5 tester\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

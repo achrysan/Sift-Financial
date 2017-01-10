@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1445287705 source:c:\users\alex chrysanthem\desktop\hw5\filter.cpp
+	<iostream>
+	"Filter.h"
+
+1445291306 c:\users\alex chrysanthem\desktop\hw5\filter.h
+	<set>
+	"Employee.h"
+	<vector>
+	<algorithm>
+
+1445638178 c:\users\alex chrysanthem\desktop\hw5\employee.h
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
+1445638181 source:c:\users\alex chrysanthem\desktop\hw5\whitehouseemployee.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	"Employee.h"
+	"Filter.h"
+
+1445638183 source:c:\users\alex chrysanthem\desktop\hw5\employee.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1445634583 source:c:\users\alex chrysanthem\desktop\cse_250_hw\hw5\employee.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1445634578 c:\users\alex chrysanthem\desktop\cse_250_hw\hw5\employee.h
+	<string>
+	<sstream>
+	<iomanip>
+	<algorithm>
+
+1445634581 source:c:\users\alex chrysanthem\desktop\cse_250_hw\hw5\whitehouseemployee.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	"Employee.h"
+	"Filter.h"
+
+1445287706 c:\users\alex chrysanthem\desktop\cse_250_hw\hw5\filter.h
+	<set>
+	"Employee.h"
+	<vector>
+	<algorithm>
+
